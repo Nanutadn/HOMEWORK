@@ -1,0 +1,22 @@
+#page {
+  color: black;
+  width: 50%
+  font: 20px Tahoma, sans-serif;
+  margin: 0 auto;
+}
+.h1 {
+  text-align: center;
+}
+.photo {
+  width: 20%;
+  display: block;
+  margin: 30px auto;
+}
+.section {
+  padding-left: 50px;
+  border-bottom: 3px solid grey;
+}
+.section1 {
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
